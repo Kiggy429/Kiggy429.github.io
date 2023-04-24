@@ -11,3 +11,29 @@ table, th, td {
 th, td {
   padding: 5px;
 }
+
+/* unvisited link */
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: limegreen;
+  text-decoration: none;
+  background-color: white;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+  text-decoration: none;
+  background-color: black;
+}
