@@ -1,7 +1,7 @@
 body {
   background-color: #000000;
   color: #FFFFFF;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 table, th, td {
@@ -17,26 +17,26 @@ th, td {
 a:link {
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* visited link */
 a:visited {
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* mouse over link */
 a:hover {
   color: limegreen;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* selected link */
 a:active {
   color: hotpink;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
 }
